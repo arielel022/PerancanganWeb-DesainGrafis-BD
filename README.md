@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Proyek ini merupakan halaman profil untuk seorang fotografer profesional yang dibangun menggunakan HTML5. Halaman ini menampilkan gambar profil, deskripsi singkat, galeri karya, dan tautan media sosial.
+Proyek ini adalah halaman profil sederhana untuk seorang fotografer profesional. Halaman ini memuat foto profil, deskripsi singkat tentang fotografer, galeri karya fotografi, serta tautan media sosial untuk memudahkan pengunjung terhubung dengan fotografer tersebut.al.
 
 ## Struktur Halaman
 
