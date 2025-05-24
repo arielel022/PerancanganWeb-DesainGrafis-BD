@@ -6,7 +6,8 @@ Proyek ini merupakan halaman profil digital untuk **Ariel Putra Az Zikra**, seor
 
 ## Struktur Halaman
 
-- **Header**: Nama dan slogan fotografer
+- **Header**: Ariel Putra Az Zikra dan “Tangkap momen, abadikan cerita.”
+
 - **Main**
   - **Section Profil**: Deskripsi dan foto diri
   - **Section Galeri**: Menampilkan hasil karya fotografi
