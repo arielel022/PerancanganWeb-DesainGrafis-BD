@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Proyek ini adalah halaman profil sederhana untuk seorang fotografer profesional. Halaman ini memuat foto profil, deskripsi singkat tentang fotografer, galeri karya fotografi, serta tautan media sosial untuk memudahkan pengunjung terhubung dengan fotografer tersebut.al.
+Proyek ini merupakan halaman profil digital untuk **Ariel Putra Az Zikra**, seorang fotografer profesional yang berfokus pada fotografi pernikahan, potret, dan acara khusus. Halaman ini menampilkan foto profil, deskripsi singkat, galeri karya, serta tautan media sosial untuk memudahkan komunikasi dan promosi.
 
 ## Struktur Halaman
 
