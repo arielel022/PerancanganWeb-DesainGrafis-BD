@@ -24,7 +24,7 @@ Proyek ini merupakan halaman profil untuk seorang fotografer profesional yang di
 
 1. Clone repositori ini:
    ```
-   git clone https://github.com/username/PerancanganWeb-DesainGrafis-BisDig.git
+   git clone https://github.com/arielel022/PerancanganWeb-DesainGrafis-BisDig.git
    ```
 2. Buka file `profil.html` di browser.
 
