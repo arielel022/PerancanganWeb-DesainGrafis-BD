@@ -10,7 +10,8 @@ Proyek ini merupakan halaman profil digital untuk **Ariel Putra Az Zikra**, seor
 - **Main**
   - **Section Profil**: Deskripsi dan foto diri
   - **My Gallery**:
-  - ![Pengertian-Fotografi](https://github.com/user-attachments/assets/b3a026b0-17ad-4912-adcd-82da8877ac86)
+  - ![BURUNG HANTU](https://github.com/user-attachments/assets/3816820a-c311-404d-a3c8-1ef53c6f738f)
+
 
   - **Sosial Media**: https://www.instagram.com/z3gariel?igsh=MXNscHE1cjBxbmJ6dA==
 - **Footer**: Informasi hak cipta
