@@ -9,7 +9,7 @@ Proyek ini merupakan halaman profil digital untuk **Ariel Putra Az Zikra**, seor
 
 - **Main**
   - **Section Profil**: Deskripsi dan foto diri
-  - **Section Galeri**: images/![Pengertian-Fotografi](https://github.com/user-attachments/assets/b3a026b0-17ad-4912-adcd-82da8877ac86)
+  - ![Pengertian-Fotografi](https://github.com/user-attachments/assets/b3a026b0-17ad-4912-adcd-82da8877ac86)
 
   - **Section Sosial Media**: Tautan ke media sosial
 - **Footer**: Informasi hak cipta
