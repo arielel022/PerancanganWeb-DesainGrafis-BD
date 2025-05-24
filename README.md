@@ -13,8 +13,8 @@ Proyek ini merupakan halaman profil digital untuk **Ariel Putra Az Zikra**, seor
   - ![BURUNG HANTU](https://github.com/user-attachments/assets/3816820a-c311-404d-a3c8-1ef53c6f738f)
 
 
-  - **Sosial Media**: https://www.instagram.com/z3gariel?igsh=MXNscHE1cjBxbmJ6dA==
-- **Footer**: Informasi hak cipta
+  - **Sosial Media**: https://www.instagram.com/z3gariel
+- **Footer**: © 2025 Ariel Putra Az Zikra. All rights reserved.
 
 ## File
 
