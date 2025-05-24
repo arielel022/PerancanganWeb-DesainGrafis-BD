@@ -15,7 +15,7 @@ Proyek ini merupakan halaman profil untuk seorang fotografer profesional yang di
 
 ## File
 
-- `profil.html`: File utama HTML halaman profil
+- `profil.html`: royek ini merupakan sebuah halaman web sederhana yang dirancang menggunakan HTML5 untuk menampilkan profil seorang fotografer profesional. Halaman ini menyajikan informasi pribadi fotografer, galeri hasil karya, serta tautan ke media sosial untuk memperluas jangkauan dan konektivitas dengan calon klien atau penggemar.
 - `style.css`: (Opsional) File CSS untuk gaya tampilan
 - `images/`: ![Pengertian-Fotografi](https://github.com/user-attachments/assets/1a64b7f7-0bb0-482a-b9e3-311410d2d4b1)
 
@@ -24,8 +24,7 @@ Proyek ini merupakan halaman profil untuk seorang fotografer profesional yang di
 
 1. Clone repositori ini:
    ```
-   git clone https://github.com/arielel022/PerancanganWeb-DesainGrafis-BisDig.git
-   ```
+   git clone https://github.com/arielel022/PerancanganWeb-DesainGrafis-BD/   ```
 2. Buka file `profil.html` di browser.
 
 ## Lisensi
