@@ -17,7 +17,8 @@ Proyek ini merupakan halaman profil untuk seorang fotografer profesional yang di
 
 - `profil.html`: File utama HTML halaman profil
 - `style.css`: (Opsional) File CSS untuk gaya tampilan
-- `images/`: Folder berisi gambar profil dan galeri
+- `images/`: ![Pengertian-Fotografi](https://github.com/user-attachments/assets/1a64b7f7-0bb0-482a-b9e3-311410d2d4b1)
+
 
 ## Cara Mengakses
 
