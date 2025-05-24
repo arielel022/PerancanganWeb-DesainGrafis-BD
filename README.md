@@ -30,4 +30,4 @@ Proyek ini merupakan halaman profil untuk seorang fotografer profesional yang di
 
 ## Lisensi
 
-Proyek ini menggunakan lisensi MIT.
+© 2025 Ariel Putra Az Zikra. Seluruh hak cipta dilindungi..
