@@ -2,9 +2,122 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Profil Ariel Putra Az Zikra - Fotografer Profesional</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ariel Putra Az Zikra - Fotografer</title>
   <link rel="stylesheet" href="style.css" />
+  <!-- Font dan ikon -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+  <style>
+    body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #f4f4f4;
+      margin: 0;
+    }
+
+    header {
+      background: #1a1a1a;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-style: italic;
+      color: #ccc;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    .profil {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 30px;
+      align-items: center;
+      margin-bottom: 50px;
+    }
+
+    .profil img {
+      width: 220px;
+      height: 220px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 4px solid #444;
+    }
+
+    .deskripsi {
+      flex: 1;
+    }
+
+    .deskripsi h2 {
+      margin-bottom: 10px;
+      color: #333;
+    }
+
+    .galeri h2,
+    .sosial h2 {
+      color: #333;
+      margin-bottom: 15px;
+    }
+
+    .foto {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 15px;
+      margin-bottom: 40px;
+    }
+
+    .foto img {
+      width: 100%;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+      transition: transform 0.3s ease;
+    }
+
+    .foto img:hover {
+      transform: scale(1.05);
+    }
+
+    .sosial {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .sosial a {
+      margin: 0 10px;
+      font-size: 1.5rem;
+      color: #1a1a1a;
+      transition: color 0.3s;
+      text-decoration: none;
+    }
+
+    .sosial a:hover {
+      color: #0077b6;
+    }
+
+    footer {
+      background: #1a1a1a;
+      color: #bbb;
+      text-align: center;
+      padding: 15px;
+      font-size: 0.9rem;
+    }
+
+    @media (max-width: 768px) {
+      .profil {
+        flex-direction: column;
+        text-align: center;
+      }
+    }
+  </style>
 </head>
 <body>
   <header>
@@ -13,18 +126,16 @@
   </header>
 
   <main>
-    <!-- Section Profil -->
     <section class="profil">
-      <img src="images/fotografer.jpg" alt="Foto Ariel Putra Az Zikra" />
+      <img src="images/fotografer.jpg" alt="Ariel Putra Az Zikra">
       <div class="deskripsi">
         <h2>Profil</h2>
         <p>
-          Ariel Putra Az Zikra adalah fotografer profesional yang berfokus pada fotografi pernikahan, potret, dan acara khusus. Dengan pengalaman lebih dari 5 tahun, Ariel selalu berusaha menangkap momen-momen berharga dengan kreativitas dan keahlian tinggi.
+          Saya adalah seorang fotografer profesional yang fokus pada dokumentasi pernikahan, potret pribadi, dan acara spesial. Menggunakan pendekatan artistik dan personal dalam setiap sesi, saya berkomitmen mengabadikan momen-momen istimewa menjadi kenangan abadi.
         </p>
       </div>
     </section>
 
-    <!-- Section Galeri -->
     <section class="galeri">
       <h2>Galeri Karya</h2>
       <div class="foto">
@@ -34,17 +145,16 @@
       </div>
     </section>
 
-    <!-- Section Sosial Media -->
     <section class="sosial">
-      <h2>Media Sosial</h2>
-      <a href="https://instagram.com/z3gariel" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
-        Instagram
-      </a> |
-      <a href="https://facebook.com/arielel022" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
-        Facebook
-      </a> |
+      <h2>Temui Saya di Media Sosial</h2>
+      <a href="https://instagram.com/arielel022" target="_blank" aria-label="Instagram">
+        <i class="fab fa-instagram"></i>
+      </a>
+      <a href="https://facebook.com/arielel022" target="_blank" aria-label="Facebook">
+        <i class="fab fa-facebook"></i>
+      </a>
       <a href="mailto:arielel022@example.com" aria-label="Email">
-        Email
+        <i class="fas fa-envelope"></i>
       </a>
     </section>
   </main>
