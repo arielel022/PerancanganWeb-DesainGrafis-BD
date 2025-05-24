@@ -1,7 +1,7 @@
 # Ariel Putra Az Zikra
 
 ## Deskripsi
-
+Proyek ini merupakan halaman profil digital untuk **Ariel Putra Az Zikra**, seorang fotografer profesional yang berfokus pada fotografi pernikahan, potret, dan acara khusus. Halaman ini menampilkan foto profil, deskripsi singkat, galeri karya, serta tautan media sosial untuk memudahkan komunikasi dan promosi.
 Proyek ini merupakan halaman profil digital untuk **Ariel Putra Az Zikra**, seorang fotografer profesional yang berfokus pada fotografi pernikahan, potret, dan acara khusus. Halaman ini menampilkan foto profil, deskripsi singkat, galeri karya, serta tautan media sosial untuk memudahkan komunikasi dan promosi.
 
 ## Struktur Halaman
